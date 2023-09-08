@@ -12,7 +12,7 @@ Este é um exemplo de código em Swift para uma tela de entrada de CPF (Cadastro
 
 Este código pode ser útil como um exemplo de como usar delegados de campo de texto e validar/formatar entrada de texto em tempo real em um aplicativo iOS.
 
-<span style="color: red"> Nota: </span> Este é um exemplo simplificado e não aborda todas as regras de validação de CPF.
+**Nota:** Este é um exemplo simplificado e não aborda todas as regras de validação de CPF.
 
 
 https://github.com/diegofgl/TextField/assets/122054408/bc0effc9-e234-4cee-953d-6957b2a3d8f1
